@@ -1,5 +1,4 @@
-import Image from "next/image";
-import logo from "@/assets/mr-logo.png"
+
 import Link from "next/link";
 import Button from "@/app/shared/button";
 

@@ -14,7 +14,7 @@ export default function Hero() {
           <div className="blur-[100px] -z-20 bg-[#6b49ff44] w-40 h-[200px] rounded-full ">
           </div>
         </div>
-        <p className="font-medium sm:font-semibold md:font-bold">Hi I'm</p>
+        <p className="font-medium sm:font-semibold md:font-bold">Hi I am</p>
         <h1 className="text-2xl  sm:text-5xl  font-extrabold bg-gradient-to-r from-orange-50 via-orange-100 to-yellow-100 bg-clip-text text-transparent">Muneeb ur Rehman</h1>
         <p className=" mt-5 text-slate-300 flex text-sm sm:text-base text-justify leading-6 sm:leading-8">
           A passionate front-end developer with a strong foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, and Next.js. Currently, I am advancing my skills in artificial intelligence through the Governor Initiative for Artificial Intelligence (GIAIC). Explore my projects, learn about my journey, and feel free to reach out to me for collaboration opportunities!

@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Button from "@/app/shared/button";
 function Contact() {
     return (

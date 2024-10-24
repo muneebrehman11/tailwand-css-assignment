@@ -2,9 +2,10 @@
 interface button {
     text: string,
     border?: boolean,
-    bg?: string
+    bg?: string,
+    custom:string
 }
-function Button({ text,border=true,custom }: any) {
+function Button({ text,border=true,custom }: button) {
     
     return (
         
